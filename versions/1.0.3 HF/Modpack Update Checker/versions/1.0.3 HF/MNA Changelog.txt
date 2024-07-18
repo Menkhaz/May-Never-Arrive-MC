@@ -1,0 +1,14 @@
+MNA Minecraft - Update Notes 7/18/24
+
+Overall Changes:
+
+
+Mods Added:
+- OctoLib
+- Relics + Alex's Caves & Mobs Compat
+- Origins++
+- XL Packets
+
+
+Mods Removed:
+- 
